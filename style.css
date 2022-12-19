@@ -260,7 +260,7 @@ nav{
     transition: all .6s ease;
  }
  .slide img{
-    width: 100%;
+    width: auto;
     height: 100%;
  }
  #r1:checked ~ .s1 {
