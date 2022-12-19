@@ -260,8 +260,8 @@ nav{
     transition: all .6s ease;
  }
  .slide img{
-    width: auto;
-    height: 100%;
+    width: 100%;
+    height: auto;
  }
  #r1:checked ~ .s1 {
     margin-left: 0%;
